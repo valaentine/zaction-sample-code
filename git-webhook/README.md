@@ -34,7 +34,7 @@ Slack webhook의 반드시 지켜야하는 포맷을 따라 코드를 작성
 
 setting → webhook → add webhook  버튼 클릭
 
-Payload URL: 생성한 Zacion 함수의 API Endpoint (ex: https://api.dev.action.cloudz.co.kr/*** )
+Payload URL: 생성한 Zacion 함수의 API Endpoint
 
 Content Type: JSON 선택
 
